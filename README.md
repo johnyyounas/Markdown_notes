@@ -1,4 +1,6 @@
 # Markdown_notes
+>Disclaimer:-
+>All of this will be totally understandable for Urdu/Hindi/English speakers because I have generated this Markdown file in that way.
 # 0-**Content**:-
 >**Just means creating a hyperlink for your content**
 
